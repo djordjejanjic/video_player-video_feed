@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(84): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\djord\documents\visual studio 2017\projects\open_cv\open_cv\source.cpp(27): warning C4172: returning address of local variable or temporary: string
+  open_cv.vcxproj -> C:\Users\djord\Documents\Visual Studio 2017\Projects\open_cv\x64\Debug\open_cv.exe
+  open_cv.vcxproj -> C:\Users\djord\Documents\Visual Studio 2017\Projects\open_cv\x64\Debug\open_cv.pdb (Partial PDB)
