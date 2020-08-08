@@ -33,7 +33,7 @@ char* user() {
 char* browse() {
 	char string[30];
 	
-	printf("Upisite lokaciju Vaseg videa | ex: video.mp4 (video se mora nalaziti na dekstopu): ");
+	printf("Upisite naziv Vaseg videa | ex: video.mp4 (video se mora nalaziti na dekstopu): ");
 	scanf("%[^\n]", string);
 	getchar();
 	printf("\n");
